@@ -2,7 +2,7 @@
 Udacity Deep Learning Nanodegree program 2019. In this project, I develop an algorithm for a dog identification application, a dog breed image classifier.
 
 ## Project Overview
-In this project, I built a convolutional neural network (CNN) that can identify whether the given image is either a dog or a human or none. If detected dog, then code will identify the dog breed. Otherwise, if detected human, then the code will identify the resembling dog breed.
+In this project, I built a convolutional neural network (CNN) that can identify whether the given image is either a dog or a human or none. If a dog is detected, then the code will identify the dog breed. Otherwise, if a human is detected, the code will identify the resembling dog breed.
 
 <img src="assets/sample_dog_output.png">
 
