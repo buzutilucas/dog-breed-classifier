@@ -6,7 +6,7 @@ In this project, I built a convolutional neural network (CNN) that can identify 
 
 <img src="assets/sample_dog_output.png">
 
-The project there is seven steps:
+The project there are seven steps:
 - _Step 1:_ Detect Humans
 - _Step 2:_ Detect Dogs
 - _Step 3:_ Create a CNN to Classify Dog Breeds (from Scratch)
